@@ -27,7 +27,7 @@
                   '- Basic app preferences
                   'This information remains on your device and is not used for advertising purposes.
 
-                  '6. Vibes Feature\n'
+                  '6. Vibes Feature
                   'Users may upload temporary vibe images and captions visible to other anonymous users for a limited time.
                   'Users can:
                   '- Create their own vibes
@@ -42,10 +42,10 @@
                   'Anonymous uses secure backend infrastructure and cloud services necessary for realtime communication, temporary media storage, and app functionality.
 
                   '9. Children’s Privacy
-                  'SecureChat is not directed toward children under the age required by local digital consent laws.
+                  'Anonymous is not directed toward children under the age required by local digital consent laws.
 
                   '10. Policy Changes
                   'This Privacy Policy may be updated periodically to reflect app improvements, security enhancements, or legal requirements.
 
-                  '11. Contact\n'
+                  '11. Contact
                   'For questions or privacy concerns, please contact us through the app store listing.',
